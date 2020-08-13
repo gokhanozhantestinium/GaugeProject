@@ -1,0 +1,18 @@
+Created by testinium on 12.08.2020
+
+This is a concept file with following syntax for each concept.
+# Kullanıcı adı "gokhan.ozhan@testinium.com" ve şifre bilgisi "Testtest1" ile login işlemi
+*Css "a[id='login']" tıkla
+*"2" Saniye Bekle
+*Css "input[name'username']" bul "gokhan.ozhan@testinium.com" gönder
+*"1" Saniye Bekle
+*Css "input[name'password']" bul "Testtest1" gönder
+*"1" Saniye Bekle
+*Css "button[name'btnLogin']" tıkla
+
+# Login kontrolü yapılır. Eğer login başarılı olmuşsa sepet tutar kontrol edilir
+* Validate login
+
+# Rastgele bir kategorinin üzerine gelinir ve alt kategorilerden rastgele bir alt kategori seçilir
+* Random click
+
